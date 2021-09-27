@@ -1,6 +1,5 @@
 # Python Text App Using Twilio API
 <hr/>
-<br/>
 <h3>Steps to build this App:</h3>
 <ol>
  <li> Create an account on Twilio.</li>
