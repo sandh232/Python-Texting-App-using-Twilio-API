@@ -13,7 +13,7 @@
  <li>Put your twilio credentials and twilio phone numbers in credentials.py</li>
  <li> Clone this repository on your desktop.</li>
  <li> Open your terminal/Git Bash and pip install twilio</li>
- <li> Open <b>send_sms.py</b> in IDLE and Run it!<br/>
+ <li> Open <b>main.py</b> in IDLE and Run it!<br/>
 Or if you want to be cool on your mac/windows...<br/>
  On Your Mac/window hit <b>CMD+SPACE</b> and type Terminal. Then type in the following command:</br>
 <br/>
